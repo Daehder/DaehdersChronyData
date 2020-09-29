@@ -45,6 +45,8 @@ The X-axes are both on the same scale, so the two graphs can be compared vertica
 I can see the normal curves starting to form, but I'd definitely need more readings to get a proper curve and draw any strong conclusions.
 That said, my spreadsheet is calculating a standard deviation of about 4 fps for the Slurpee Scar and between 5.75 and 5.49 fps for the non-scar, which seems to demonstrate some effect with the scar and show that the blaster is reasonably consistent.
 
+[Oh, and here is the CSV with the raw data](https://github.com/Daehder/DaehdersChronyData/blob/master/ComparingSaturnusAndCaldwellG2/ComparingSaturnusAndCaldwellG2.csv)
+
 **Conclusion**
 Overall, I'm very impressed with the Saturnus. With an admittedly small sample size of a single unit, it's reading about 3 fps lower than a Caldwell G2 with a cost that is an order of magnitude lower than said Caldwell.
 
